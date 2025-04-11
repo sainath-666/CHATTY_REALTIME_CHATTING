@@ -10,7 +10,6 @@ A modern full-stack real-time chat application built with the MERN stack and Soc
 - **Image sharing** via Cloudinary integration
 - **Responsive design** for all devices
 - **Dark/Light mode** toggle
-- **Message notifications**
 - **Clean, modern UI** built with TailwindCSS and Daisy UI
 
 ## 🚀 Tech Stack
